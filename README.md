@@ -26,3 +26,7 @@
 <h1>What i'm listening: <h1/>
   
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ChrisRomm&loved=true)
+
+
+ 𝑩𝒆𝒚𝒐𝒏𝒅 / 𝑳𝒊𝒎𝒊𝒕𝒍𝒆𝒔𝒔 / 𝑷𝒓𝒊𝒔𝒎𝒔
+![](https://github.com/CryoXen/CryoXen/blob/main/eye.gif)
