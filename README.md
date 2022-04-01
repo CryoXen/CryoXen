@@ -18,6 +18,6 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> 
 
 
-<h1>Lo que escucho: <h1/>
+<h1>What i'm listening: <h1/>
   
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ChrisRomm&loved=true)
