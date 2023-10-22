@@ -1,5 +1,4 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CryoXen&show_icons=true&theme=dark)
 
 
 <h1>Technologies I work with: <h1/>
