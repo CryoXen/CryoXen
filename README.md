@@ -27,6 +27,6 @@ flowchart LR
 
 
 <p align="center">
-  <img src="/nobodyhere.gif" alt="caos digital" width="700" height="600"/>
+  <img src="/nobodyhere.gif" alt="caos digital" width="600" height="400"/>
 </p>
 
