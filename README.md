@@ -16,14 +16,12 @@ flowchart LR
   C <--> F
   B <--> G
 
-  %% Estilos caóticos
-  classDef n fill:#8ee5ff,stroke:#111,stroke-width:2px,color:#000,font-weight:bold;
+  %% Estilos 
+  classDef n fill:#f8c8ff,stroke:#d1a0e0,stroke-width:2px,color:#4b2b60,font-weight:bold;
 
   %% Animaciones simuladas mediante estilos alternos y flechas punteadas
-  linkStyle 0,1,2,3,4,5,6 stroke:#ff007f,stroke-width:2px,stroke-dasharray:5 5;
-  linkStyle 7,8 stroke:#ffae00,stroke-width:3px;
-  linkStyle 9 stroke:#00ffcc,stroke-width:2.5px,stroke-dasharray:3 2;
-
-  %% Opcional: indicar direcciones LR para horizontalidad
+  linkStyle 0,1,2,3,4,5,6 stroke:#f5a0ff,stroke-width:2px,stroke-dasharray:5 5;
+  linkStyle 7,8 stroke:#d8a0ff,stroke-width:3px;
+  linkStyle 9 stroke:#ffa0d0,stroke-width:2.5px,stroke-dasharray:3 2;
 ```
 
