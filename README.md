@@ -8,10 +8,10 @@ flowchart LR
   A[digitalidad]:::n <--> B[espacio-latente]:::n
   B <--> C[réplica]:::n
   C <--> D[eco]:::n
-  D <--> E[ruido]:::n
-  E <--> F[caos]:::n
+  D <--> E[espectro]:::n
+  E <--> F[repetición]:::n
   F <--> G[fractales]:::n
-  G <--> H[ensamblaje]:::n
+  G <--> H[virtualidad]:::n
   H <--> A
   C <--> F
   B <--> G
