@@ -25,3 +25,4 @@ flowchart LR
   linkStyle 9 stroke:#ffa0d0,stroke-width:2.5px,stroke-dasharray:3 2;
 ```
 
+![caos digital](/nobodyhere.gif)
