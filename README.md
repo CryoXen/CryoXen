@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Coral+Pixels&size=50&duration=3000&pause=1000&color=F7449C&repeat=false&random=true&width=450&height=68&lines=El+yo+y+el+internet)](https://git.io/typing-svg)
 
 ```mermaid
-flowchart TD
+flowchart LR
   A[digitalidad]:::n <--> B[espacio-latente]:::n
   B <--> C[réplica]:::n
   C <--> D[eco]:::n
@@ -19,7 +19,11 @@ flowchart TD
   %% Estilos caóticos
   classDef n fill:#8ee5ff,stroke:#111,stroke-width:2px,color:#000,font-weight:bold;
 
-  %% Animaciones y caos simulados
+  %% Animaciones simuladas mediante estilos alternos y flechas punteadas
   linkStyle 0,1,2,3,4,5,6 stroke:#ff007f,stroke-width:2px,stroke-dasharray:5 5;
   linkStyle 7,8 stroke:#ffae00,stroke-width:3px;
   linkStyle 9 stroke:#00ffcc,stroke-width:2.5px,stroke-dasharray:3 2;
+
+  %% Opcional: indicar direcciones LR para horizontalidad
+```
+
